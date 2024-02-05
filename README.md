@@ -22,7 +22,7 @@ This command starts a local development server and opens up a browser window. Mo
 $ yarn build
 ```
 
-This command generatesfds static content into the `build` directory and can be served using any static contents hosting service.
+This command generate static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Deployment
 

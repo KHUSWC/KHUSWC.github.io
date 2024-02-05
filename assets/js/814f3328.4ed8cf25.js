@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[512],{4352:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Reflections-on-the-lack-of-space-in-the-Software-Convergence-College","permalink":"/blog/Reflections-on-the-lack-of-space-in-the-Software-Convergence-College","unlisted":false}]}')}}]);

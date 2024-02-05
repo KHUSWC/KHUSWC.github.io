@@ -1,0 +1,27 @@
+/**
+ * Global CSS Customizations
+ * This section overrides the default Infima variables to customize the look and feel of the site.
+ * Infima is a CSS framework designed for content-centric websites, bundled with Docusaurus.
+ */
+
+ :root {
+  /* Primary color palette */
+  --ifm-color-primary: #3578e5; 
+  --ifm-color-primary-dark: #1d68e1;
+  --ifm-color-primary-darker: #1b62d4;
+  --ifm-color-primary-darkest: #1751af;
+  --ifm-color-primary-light: #4e89e8;
+  --ifm-color-primary-lighter: #5a91ea;
+  --ifm-color-primary-lightest: #80aaef;
+
+  /* Code font size adjustment */
+  --ifm-code-font-size: 110%;
+}
+
+/* Dark mode color adjustments for improved readability */
+html[data-theme='dark'] {
+  --ifm-background-color: #1e2125;
+  --ifm-background-surface-color: #121212;
+}
+
+

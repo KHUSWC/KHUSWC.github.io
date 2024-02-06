@@ -59,6 +59,11 @@ body {
   line-height: 1.8  /* 기본값보다 넓은 간격 */
 }
 
+p {
+  font-family: 'Pretendard', sans-serif;  /* 위에서 설정한 글꼴 이름으로 변경하세요 */
+  line-height: 1.8  /* 기본값보다 넓은 간격 */
+}
+
 /* Strong (bold) text color */
 strong {
   color: #EBCB8B; /* Bright yellow for emphasis */
